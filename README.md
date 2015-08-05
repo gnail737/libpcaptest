@@ -1,7 +1,6 @@
 This is a somewhat skeleton eclipse project whose sole purpose is to build a static version of libpcap, libpcap is cloned from Android
-Source site at:https://android.googlesource.com/platform/external/libpcap/, at my own descretion I removed some of those .3pcap, .3pcap.in files,
-as they are only used to testing, also some multiplatform files are included, because I am not sure whether deleting them
-will cause compile and build failure. Please refer to the original source trunk for all the files contained in Test Suite.
+Source site at:https://android.googlesource.com/platform/external/libpcap/, at my own descretion I removed some of those .3pcap, .3pcap.in files, also some multiplatform files are included, because I am not sure whether deleting them
+will cause compile and build failure. Please refer to the original source trunk for all the original files.
 
 Usage instruction (windows only, linux should be similar)
 
